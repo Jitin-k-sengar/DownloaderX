@@ -19,9 +19,13 @@ A simple command-line tool to search and download videos or audio from YouTube u
 - `colorama`
 
 ## Acknowledgements
-yt-dlp - A powerful YouTube downloader.
-youtube-search - A library for searching YouTube videos.
-Colorama - A library for colored terminal text.
+* yt-dlp
+  -  A powerful YouTube downloader.
+* youtube-search
+  -  A library for searching YouTube videos.
+* Colorama
+  -  A library for colored terminal text.
+
 Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any enhancements or bug fixes.
 
