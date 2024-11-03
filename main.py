@@ -127,6 +127,7 @@ def main():
             
             while True:
                 try:
+                    print("\n")
                     Choose_Song = int(input(Fore.YELLOW + "Choose Title (1 to {}): ".format(len(titles))))
                     if 1 <= Choose_Song <= len(titles):
                         break
