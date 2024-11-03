@@ -26,7 +26,7 @@ A simple command-line tool to search and download videos or audio from YouTube u
 * Colorama
   -  A library for colored terminal text.
 
-Contributing
+## Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any enhancements or bug fixes.
 
 ## Contact
